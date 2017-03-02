@@ -1,0 +1,16 @@
+{
+  "name": "sass-runner",
+  "version": "0.1.0",
+  "description": "A small wrapper around node-sass, useful for testing sass",
+  "main": "index.js",
+  "keywords": ["sass", "test", "node-sass"],
+  "author": "Sparkbox",
+  "repository": {
+    "url": "git@github.com:sparkbox/sass-runner.git",
+    "type": "git"
+  },
+  "dependencies": {
+    "node-sass": "^4.5.0",
+    "sass-list-maps": "^1.0.0-b"
+  }
+}
