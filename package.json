@@ -1,6 +1,6 @@
 {
   "name": "sass-runner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small wrapper around node-sass, useful for testing sass",
   "main": "index.js",
   "keywords": ["sass", "test", "node-sass"],
